@@ -1,0 +1,47 @@
+h1{
+    background-color: rgb(207, 237, 241);
+    background-image: url(https://lunar-merch.b-cdn.net/animalcrossing.shop/media/227/flat750x075f-pad750x1000f8f8f8.u1-1.jpg);
+   
+}
+/* Makes the text within <p> elements bold */
+p {
+  font-weight: bold;
+}
+
+
+/* Makes the text within a specific class "my-bold-text" bold */
+.my-bold-text {
+  font-weight: bold;
+}
+body{
+    background-color: rgb(216, 239, 245);
+}
+h2{
+    background-color: rgb(207, 237, 241);
+    background-image: url(https://lunar-merch.b-cdn.net/animalcrossing.shop/media/227/flat750x075f-pad750x1000f8f8f8.u1-1.jpg);
+   
+}
+/* Makes the text within <p> elements bold */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2fcfda;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
